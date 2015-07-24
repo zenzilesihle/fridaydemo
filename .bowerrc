@@ -1,0 +1,4 @@
+{
+    "proxy":"http://learn19:dante@10.47.2.250:3128",
+    "https-proxy":"http://learn19:dante@10.47.2.250:3128"
+}

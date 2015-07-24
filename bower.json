@@ -1,0 +1,20 @@
+{
+  "name": "Cookbook",
+  "version": "0.0.1",
+  "authors": [
+    "zenzilesihle <sihlezen10@gmail.com>"
+  ],
+  "description": "Cookbook Application",
+  "main": "indexx.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.5.2"
+  }
+}
